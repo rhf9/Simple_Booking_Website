@@ -1,0 +1,108 @@
+div.menu {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+div.menu a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+
+div.menu a:hover {
+  background-color: #777;
+}
+div.paragraph{
+	color: blue;
+	text-align:center;
+	font-size:160%
+} 
+#grad1 {
+  height: 200px;
+  background-color: #cccccc;
+  background-image: linear-gradient(blue, white);
+}
+
+body {font-family: Arial, Helvetica, sans-serif;}
+form {border: 3px solid #f1f1f1;}
+
+input[type=text], input[type=password] {
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+}
+
+button {
+  background-color: #80aaff;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  width: 40%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 20px 0 10px 0;
+}
+
+img.avatar {
+  width: 20%;
+  border-radius: 30%;
+}
+
+.hotel {
+width: 80%;
+  border-radius: 20%;
+}
+
+
+
+.container {
+  padding: 6px;
+}
+
+span.psw {
+  float: right;
+}
+
+
+
+.h_1{
+  margin: auto;
+  width: 40%;
+  padding: 10px;
+}
+
+.p_1{
+    margin: auto;
+    width: 30%;
+  padding: 10px;
+}
+
+.ol_1{
+      margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+ol {
+  background: #80ccff;
+  padding: 20px;
+  margin-left: 35px;
+}
+
+ul {
+  background: #b3e0ff;
+  padding: 30px;
+  margin-left: 30px;
+}
